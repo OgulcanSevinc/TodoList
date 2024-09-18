@@ -40,15 +40,6 @@ Make sure you have [Node.js](https://nodejs.org/) (version 14+) and [Vue.js](htt
 - **Change Task Input Placeholder**: Modify the placeholder text for the task input field in the template.
 - **Customize Task Style**: Edit the `.completed` CSS class to change how completed tasks are displayed.
 
-## 📂 Project Structure
-
-.
-├── public/              # Static assets (icons, images, etc.)
-├── src/
-│   ├── App.vue          # Main component
-│   ├── main.js          # App entry point
-└── package.json         # Project dependencies
-
 
 
 
